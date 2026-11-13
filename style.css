@@ -1,0 +1,41 @@
+body{
+    background-color: #0c1821;
+}
+
+#Title{
+    text-align: center;
+    margin-top: 50px;
+    background-color: #1b2a41;
+    color: #ccc9dc;
+    padding: 50px 0 50px 0;
+    border-radius: 0 75px 0 75px;
+}
+
+#Icon-container{
+    text-align: center;
+}
+
+#Profile-icon{
+    object-fit: cover;
+    object-position: center 3px;
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
+
+#Introduction-container{
+    text-align: center;
+    margin-top: 20px;
+    background-color: #324a5f;
+    border-radius: 50px;
+    padding: 50px;
+}
+
+.link{
+    font-size: 20px;
+    color: #ccc9dc;
+}
+
+#Introduction{
+    text-align: center;
+}
