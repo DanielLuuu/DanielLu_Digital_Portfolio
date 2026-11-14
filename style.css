@@ -4,11 +4,11 @@ body{
 
 #Title{
     text-align: center;
-    margin-top: 50px;
     background-color: #1b2a41;
     color: #ccc9dc;
     padding: 50px 0 50px 0;
     border-radius: 0 75px 0 75px;
+    font-family:'Times New Roman', Times, serif;
 }
 
 #Icon-container{
@@ -24,11 +24,11 @@ body{
 }
 
 #Introduction-container{
-    text-align: center;
     margin-top: 20px;
+    text-align: center;
     background-color: #324a5f;
     border-radius: 50px;
-    padding: 50px;
+    padding: 20px 0 20px 0;
 }
 
 .link{
@@ -38,4 +38,19 @@ body{
 
 #Introduction{
     text-align: center;
+}
+
+#contactInfo{
+    padding: 20px;
+}
+
+#topBar{
+    padding: 10px;
+    background-color: #324a5f;
+}
+
+.topBar-button{
+    background-color: #324a5f;
+    color:#ccc9dc;
+    border: none;
 }
